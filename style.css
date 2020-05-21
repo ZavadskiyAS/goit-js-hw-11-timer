@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background: rgb(157, 194, 22);
+  }
+  
+  .timer {
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    font-weight: 900;
+    text-align: center;
+    font-size: 30px;
+  }
+  
+  .field {
+    padding: 10px;
+    border-radius: 3px;
+    background: rgb(0, 0, 0);
+    display: inline-block;
+  }
+  
+  .value {
+    padding: 15px;
+    border-radius: 3px;
+    background: rgb(238, 164, 5);
+    display: inline-block;
+  }
+  
+  .label {
+    display: block;
+    padding-top: 5px;
+    font-size: 16px;
+  }
